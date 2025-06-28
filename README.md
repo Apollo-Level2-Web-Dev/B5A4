@@ -61,8 +61,8 @@ All pages of this project are accessible without login or authentication. The fo
     - All Books
     - Add Book
     - Borrow Summary
-- **Book Table/List**: Display list of books with all core actions.
-- **Footer**: Minimal footer with site info or credits (optional).
+- **Book Table/List/Grid**: Display list of books with all core actions.
+- **Footer**: Standard footer with site info or credits.
 
 ---
 
@@ -81,9 +81,9 @@ All pages of this project are accessible without login or authentication. The fo
 
 ## **UI/UX**
 
-- **Minimalist UI**: A basic, clean UI using Tailwind CSS or plain CSS.
+- **Minimalist UI**: clean and featureful UI using Tailwind CSS or plain CSS.
 - **User Experience**: Easy navigation between pages, clearly labeled buttons, and simple forms.
-- **Responsive**: Ensure mobile-friendliness if possible.
+- **Responsive**: The layout must be fully responsive and adapt seamlessly to mobile, tablet, and desktop devices.
 
 ---
 
@@ -127,7 +127,7 @@ You may refer to these minimal systems for visual or architectural ideas:
     - Ensure backend APIs support pagination for product listings and order retrieval.
     - Add authentication middleware to protect private routes, including checkout and the dashboard
 
-`You can use any existing backend if you have developed it earlier or create a new version modifying from the existing older one.`
+`You may use an existing backend that you have developed previously or create a new version by modifying the older one. Make any additional updates if necessary.`
 
 ---
 
