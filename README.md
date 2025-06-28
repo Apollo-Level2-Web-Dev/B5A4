@@ -158,7 +158,7 @@ You may refer to these minimal systems for visual or architectural ideas:
 
 ## **Submission:**
 
-1. **GitHub Repository Link with Professional README file** 
+1. **GitHub Repository Link (backend and frontend) with Professional README file** 
 2. **Live Deployment Link (backend and frontend)**
 
 ---
