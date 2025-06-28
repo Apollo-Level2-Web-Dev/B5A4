@@ -22,7 +22,7 @@ All pages of this project are accessible without login or authentication. The fo
     - Show all books in a table format.
     - Columns: Title, Author, Genre, ISBN, Copies, Availability, and Actions.
 - **Action Buttons/Icons:**
-    - **Edit Book**: Opens a form to edit book info. On submit, updates via API and reflects instantly in UI.
+    - **Edit Book**: Opens a form with existing book data to edit book info. On submit, updates via API and reflects instantly in UI.
         - Business logic:
             - Quantity cannot exceed available copies.
             - If quantity reaches 0, the book is marked unavailable.
