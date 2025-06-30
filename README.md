@@ -124,8 +124,8 @@ You may refer to these minimal systems for visual or architectural ideas:
 - **Error Handling:**
     - Establish consistent, user-friendly error messa.
 - **Additional Changes:**
-    - Ensure backend APIs support pagination for product listings and order retrieval.
-    - Add authentication middleware to protect private routes, including checkout and the dashboard
+    - Ensure backend APIs support pagination for book listings and order retrieval.
+    - Add authentication middleware to protect private routes (if needed).
 
 `You may use an existing backend that you have developed previously or create a new version by modifying the older one. Make any additional updates if necessary.`
 
