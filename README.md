@@ -24,8 +24,7 @@ All pages of this project are accessible without login or authentication. The fo
 - **Action Buttons/Icons:**
     - **Edit Book**: Opens a form with existing book data to edit book info. On submit, updates via API and reflects instantly in UI.
         - Business logic:
-            - Quantity cannot exceed available copies.
-            - If quantity reaches 0, the book is marked unavailable.
+            - If copies set to 0, the book will mark as unavailable.
     - **Delete Book**: Opens a confirmation dialog before removal.
     - **Borrow Book**: Opens a simple form to borrow a book.
 - **Add New Book:**
