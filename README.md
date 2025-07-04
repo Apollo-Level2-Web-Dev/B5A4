@@ -40,7 +40,7 @@ All pages of this project are accessible without login or authentication. The fo
 - Fields: Quantity (number), Due Date (date).
 - Business logic:
     - Quantity cannot exceed available copies.
-    - If quantity reaches 0, the book is marked unavailable.
+    - If copies reaches 0, the book is marked unavailable.
 - Submit via API and show success message.
 - Redirect to borrow summary page.
 
